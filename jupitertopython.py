@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 10 05:47:58 2017
+Licence: No FUCKING licence required, do whatFUCKever u need with this Fuck Code
 Intern: KSRSAC
 @author: GURU
 reference from Stackflow and Internet and updated as per convenience to local image
